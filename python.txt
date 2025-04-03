@@ -1,0 +1,11 @@
+Min 00:23:18 -> In Process.
+
+----------------------------Caracteristicas----------------------------
+- Propósito generál.
+- Alto nivel.
+- Fácil de aprender.
+- Tipado dinámico.
+- Orientado a objetos.
+- Lenguaje interpretado.
+----------------------------Porqué usarlo-------------------------------
+- All.
