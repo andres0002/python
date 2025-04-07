@@ -1,0 +1,5 @@
+Los datos son:
+-------------------------------------------
+Name: Andres, lastname: Ramirez, age: 26.
+Name: Juan, lastname: Correa, age: 30.
+Name: Lucas, lastname: Dalto, age: 22.
